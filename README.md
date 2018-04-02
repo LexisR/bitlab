@@ -3,7 +3,7 @@
 BitLab  información completa de la criptomoneda mas usada del 
 mercado, Es una herramienta mut facil de usar para realizar seguimiento a todas tsu inversiones en criptomonedas. Obten información detallada sobre precios y mercados para monedas individuales y su cartera completa, todo en un solo lugar.
 
-
++![bitlab io](https://github.com/LexisR/bitlab/blob/master/assets/img/principal.png?raw=true)
 
 ### Como acceder a BitLab
 
