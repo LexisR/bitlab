@@ -3,9 +3,11 @@
 BitLab  información completa de la criptomoneda mas usada del 
 mercado, Es una herramienta mut facil de usar para realizar seguimiento a todas tsu inversiones en criptomonedas. Obten información detallada sobre precios y mercados para monedas individuales y su cartera completa, todo en un solo lugar.
 
+
+
 ### Como acceder a BitLab
 
-* Debe hacer click aqui ACA VA EL LINK 
+* Debe hacer click aqui https://lexisr.github.io/bitlab/
 * Para ingresar a BitLab debe hacerlo con su cuenta  gmail asociada a Google.
  Ejemplo: ejmplo@gmail.com
 
